@@ -3,7 +3,7 @@
 ##Download an use the app
 link:https://drive.google.com/drive/folders/1zrT19vvxvUmO63E-PnXiAc39QFsKbxi5?usp=sharing
 
-###download the two floder exe and h5 model file and put them in the floder and open the app
+###download the two files exe and h5 model file and put them in the folder and open the app
 ###Now upload a audio file enjoy
 
 ##classification of forest sounds detecting potential deforestation and threats such as chainsaw and heavy machinery
